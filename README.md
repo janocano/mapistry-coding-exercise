@@ -1,0 +1,1 @@
+# mapistry-coding-exercise
